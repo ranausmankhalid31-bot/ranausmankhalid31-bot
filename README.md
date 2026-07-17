@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋, I'm Usman Khalid
 
-<!--
-**ranausmankhalid31-bot/ranausmankhalid31-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student at The Islamia University of Bahawalpur (IUB)
+📈 Digital Marketing & SEO Specialist | Google Ads • Local SEO • AI Automation
+🚀 Building my freelance brand: Usman Digital Marketing & SEO
+📍 Based in Bahawalpur, Pakistan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I'm working on
+- SEO keyword research & on-page optimization
+- Google Ads campaign management
+- Combining AI knowledge with digital marketing to build smarter, data-driven strategies
+
+### 🌱 Currently learning
+- Advanced SEO & Google Ads (structured course)
+- AI Automation for marketing workflows
+
+### 📫 Connect with me
+- LinkedIn: [in/usman-khalidofficail](https://linkedin.com/in/usman-khalidofficail)
+- Instagram: grow.withusman.pk
+
+⭐️ From ranausmankhalid31-bot
+  
